@@ -1,4 +1,5 @@
 **Project description**
+
 This deep learning project, developed for the University of Venice Ca' Foscari, aims to create a sophisticated neural network (NN) capable of identifying deepfake videos and images. Deepfakes, which involve the use of artificial intelligence to create highly realistic but fake content, pose significant challenges in terms of authenticity and security. This project addresses these challenges by leveraging advanced machine learning techniques to distinguish genuine media from manipulated content.
 
 Our Objectives are:
